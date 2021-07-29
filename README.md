@@ -2,7 +2,7 @@
 Enchanting in its mystique and majesty. Mountain.
 
 ## Usage
-Recommendations for how to use the wallpapers.
+Recommended usage of the images.
 
 ### As wallpapers
 ![Coast](coast.png)

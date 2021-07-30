@@ -12,10 +12,6 @@
 </p>
 
 <p align='center'>
-<img src='mountain.png' alt='rose' width='600'/>
-</p>
-
-<p align='center'>
 <img src='redflower.jpg' alt='rose' width='600'/>
 </p>
 

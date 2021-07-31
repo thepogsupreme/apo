@@ -3,6 +3,10 @@
 </p>
 
 <p align='center'>
+<img src='computers.jpg' alt='rose' width='600'/>
+</p>
+
+<p align='center'>
 <img src='megumibike.png' alt='rose' width='600'/>
 </p>
 

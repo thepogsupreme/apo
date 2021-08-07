@@ -7,12 +7,12 @@ An official-unofficial collection of serene and grand wallpapers for the Mountai
 
 <p align='center'>
 <img src='nature/mache.jpg'>
-<a href='weeb/README.md'>Nature</a>
+<a href='nature/README.md'>Nature</a>
 </p>
 
 <p align='center'>
 <img src='minimal/red_flower.jpg'>
-<a href='weeb/README.md'>Minimal</a>
+<a href='minimal/README.md'>Minimal</a>
 </p>
 
 <p align='center'>

@@ -12,11 +12,11 @@
 </p>
 
 <p align='center'>
-<img src='redflower.jpg' alt='rose' width='600'/>
+<img src='red_flower.jpg' alt='rose' width='600'/>
 </p>
 
 <p align='center'>
-<img src='spaceCat.png' alt='rose' width='600'/>
+<img src='spacecat.png' alt='rose' width='600'/>
 </p>
 
 <p align='center'>

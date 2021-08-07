@@ -7,15 +7,15 @@
 </p>
 
 <p align='center'>
+<img src='jacket_girl.png' alt='jacket_girl' width='600'/>
+</p>
+
+<p align='center'>
 <img src='computers.jpg' alt='computers' width='600'/>
 </p>
 
 <p align='center'>
 <img src='mob_psycho_100.jpg' alt='mob_psycho_100' width='600'/>
-</p>
-
-<p align='center'>
-<img src='jacket_girl.jpg' alt='jacket_girl' width='600'/>
 </p>
 
 <p align='center'>

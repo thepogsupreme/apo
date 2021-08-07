@@ -1,25 +1,29 @@
 <p align='center'>
-<img src='gojo4k.png' alt='rose' width='600'/>
+<img src='gojo.png' alt='gojo' width='600'/>
 </p>
 
 <p align='center'>
-<img src='computers.jpg' alt='rose' width='600'/>
+<img src='megumi_bike.png' alt='megumi_bike' width='600'/>
 </p>
 
 <p align='center'>
-<img src='megumibike.png' alt='rose' width='600'/>
+<img src='computers.jpg' alt='computers' width='600'/>
 </p>
 
 <p align='center'>
-<img src='mobPsyco100.jpg' alt='rose' width='600'/>
+<img src='mob_psycho_100.jpg' alt='mob_psycho_100' width='600'/>
 </p>
 
 <p align='center'>
-<img src='modernGirl.png' alt='rose' width='600'/>
+<img src='jacket_girl.jpg' alt='jacket_girl' width='600'/>
 </p>
 
 <p align='center'>
-<img src='snowGirl.jpg' alt='rose' width='600'/>
+<img src='modern_girl.png' alt='modern_girl' width='600'/>
+</p>
+
+<p align='center'>
+<img src='snow_girl.jpg' alt='snow_girl' width='600'/>
 </p>
 
 <p align='center'>

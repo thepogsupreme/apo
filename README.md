@@ -1,6 +1,9 @@
 An official-unofficial collection of serene and grand wallpapers for the Mountain theme. And remember, like Sun Tzu always said, "Patients is key".
 
+<p align='center'>
+<img src='weeb/gojo'>
 [Weeb](weeb/README.md)
+</p>
 [Nature](nature/README.md)
 [Minimal](minimal/README.md)
 

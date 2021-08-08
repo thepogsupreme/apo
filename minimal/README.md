@@ -1,22 +1,22 @@
 
 <p align='center'>
-<img src='hourglass.png' alt='coast' width='600'/>
+<img src='hourglass.png' alt='hourglass' width='600'/>
 </p>
 
 <p align='center'>
-<img src='mask_skull.jpg' alt='hugeee rock' width='600'/>
+<img src='mask_skull.jpg' alt='mask_skull'width='600'/>
 </p>
 
 <p align='center'>
-<img src='mountain.png' alt='ocean rock' width='600'/>
+<img src='mountain.png' alt='mountain' width='600'/>
 </p>
 
 <p align='center'>
-<img src='red_flower.jpg' alt='rose' width='600'/>
+<img src='red_flower.jpg' alt='red_flower' width='600'/>
 </p>
 
 <p align='center'>
-<img src='spacecat.png' alt='rose' width='600'/>
+<img src='spacecat.png' alt='spacecat' width='600'/>
 </p>
 
 <p align='center'>

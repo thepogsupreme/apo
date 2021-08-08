@@ -1,10 +1,9 @@
-
 <p align='center'>
-<img src='hourglass.png' alt='hourglass' width='600'/>
+<img src='red_flower.jpg' alt='red_flower' width='600'/>
 </p>
 
 <p align='center'>
-<img src='mask_skull.jpg' alt='mask_skull'width='600'/>
+<img src='hourglass.png' alt='hourglass' width='600'/>
 </p>
 
 <p align='center'>
@@ -12,7 +11,7 @@
 </p>
 
 <p align='center'>
-<img src='red_flower.jpg' alt='red_flower' width='600'/>
+<img src='mask_skull.jpg' alt='mask_skull'width='600'/>
 </p>
 
 <p align='center'>

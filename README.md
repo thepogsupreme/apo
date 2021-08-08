@@ -3,7 +3,9 @@
 <img src='mountain.png'>
 
 <h1>Apo</h1>
-An official-unofficial collection of serene and grand wallpapers for the Mountain theme. And remember, like Sun Tzu always said, "Patients is key".
+An official-unofficial collection of serene and grand wallpapers for the Mountain theme. 
+
+And remember, like Sun Tzu always said, "Patients is key".
 
 </div>
 

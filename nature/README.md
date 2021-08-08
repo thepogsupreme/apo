@@ -1,9 +1,17 @@
 <p align='center'>
-<img src='branches.jpg' alt='branches' width='600'/>
+<img src='mache.jpg' alt='mache' width='600'/>
 </p>
 
 <p align='center'>
 <img src='coast.png' alt='coast' width='600'/>
+</p>
+
+<p align='center'>
+<img src='pointy_rock.jpg' alt='pointy_rock' width='600'/>
+</p>
+￼
+<p align='center'>
+<img src='branches.jpg' alt='branches' width='600'/>
 </p>
 
 <p align='center'>
@@ -14,9 +22,6 @@
 <img src='peony.jpg' alt='peony' width='600'/>
 </p>
 
-<p align='center'>
-<img src='pointy_rock.jpg' alt='pointy_rock' width='600'/>
-</p>
 
 <p align='center'>
 <img src='rocks.jpg' alt='rocks' width='600'/>
